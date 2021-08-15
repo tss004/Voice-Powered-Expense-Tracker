@@ -3,7 +3,7 @@ Developed a webapp using Html,Css,React,Context API,speechly that helps to keep 
 this user can add or remove expenses manually or using voice assistant. Their will be a complete
 track of inflow and outflow of expense in form of pie chart. The pie charts will automatically get
 updated after adding and removing of Expenses
-https://amazing-turing-663bc0.netlify.app/
+(https://amazing-turing-663bc0.netlify.app/)
 
 # Installation
 1. Make sure you have node.js and npm install
