@@ -12,9 +12,5 @@ https://amazing-turing-663bc0.netlify.app/
 3. Start the web app using 
   npm start
 
-# Screenshot
-![Screenshot (91)](https://user-images.githubusercontent.com/87906386/129470164-8b9d52c6-32db-4045-bdb9-306705d1464e.png)
-
-![Screenshot (92)](https://user-images.githubusercontent.com/87906386/129470130-57fa41f8-e63e-47db-9c12-d219f4d82009.png)
 
 
