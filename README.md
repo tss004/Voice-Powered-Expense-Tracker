@@ -10,3 +10,7 @@ updated after adding and removing of Expenses
   npm install
 3. Start the web app using 
   npm start
+
+# Screenshot
+![Screenshot (89)](https://user-images.githubusercontent.com/87906386/129469956-a5d2db04-77c4-4d4c-9f7c-933c1cf18bb0.png)
+
