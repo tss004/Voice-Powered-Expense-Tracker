@@ -5,8 +5,8 @@ track of inflow and outflow of expense in form of pie chart. The pie charts will
 updated after adding and removing of Expenses
 
 # Installation
-1.Make sure you have node.js and npm install
-2.Install dependence using 
+1. Make sure you have node.js and npm install
+2. Install dependence using 
   npm install
-3.Start the web app using 
+3. Start the web app using 
   npm start
