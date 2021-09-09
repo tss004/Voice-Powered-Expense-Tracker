@@ -6,7 +6,7 @@ updated after adding and removing of Expenses
 (https://amazing-turing-663bc0.netlify.app/)
 
 # Installation
-1. Make sure you have node.js and npm install
+1. Make sure you have node.js and npm
 2. Install dependence using 
   npm install
 3. Start the web app using 
